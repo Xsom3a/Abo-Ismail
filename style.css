@@ -948,3 +948,8 @@ footer img {
     top: -128px;
     z-index: 55;
 }
+.maps {
+    width: 350px;
+    height: 400px;
+    margin-left: 20px;
+}
